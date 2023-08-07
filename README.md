@@ -1,2 +1,2 @@
 # ExceltoPowerApps
-YouTubeでExcelからPower Appsを作成sる流れを紹介しました。その際に使用した元となるExcel ファイルを公開しています。
+YouTubeでExcelからPower Appsを作成する流れを紹介しました。その際に使用した元となるExcel ファイルを公開しています。
